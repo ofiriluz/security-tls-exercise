@@ -1,0 +1,8 @@
+.venv
+.vscode
+ca.crt
+cakey.pem
+server.crt
+server.csr
+serverkey.pem
+store
